@@ -20,6 +20,13 @@ body {
 
 }
 
+#loose {
+    color: white;
+    font-size: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #items {
     padding: 1rem;
     display: flex;
