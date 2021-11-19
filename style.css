@@ -69,3 +69,13 @@ button#valide-button {
     max-height: 13%;
     border-radius: 12px;
 }
+
+#win {
+    display: none;
+    text-decoration: none;
+    color: green;
+}
+
+#win:visited {
+    color: green;
+}
